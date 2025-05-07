@@ -4,7 +4,7 @@ import Home from './pages/Homepage';
 import MyList from './pages/MyList';
 import MovieDetails from './pages/MovieDetails';
 import Header from './components/Header';
-import Sidebar from './components/Sidebar';
+import Sidebar from './components/sidebar'
 import { MovieListProvider } from './context/MovieListContext';
 import { Box } from '@mui/material';
 
